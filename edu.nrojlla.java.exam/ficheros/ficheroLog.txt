@@ -1,0 +1,42 @@
+Menu principal
+Menu principal
+Menu principal
+Menu empleado
+Calculo total mensual
+Error: Text '10-10-2024' could not be parsed at index 3
+Menu principal
+Menu principal
+Menu empleado
+Calculo total mensual
+Menu principal
+Menu empleado
+volver
+Menu principal
+Menu gerencia
+Opcion 2 no disponible
+Dal alta cliente
+volver
+Menu principal
+Menu empleado
+Agregar compra a cliente
+Calculo total mensual
+Error: Text '' could not be parsed at index 0
+Menu principal
+Cerrar aplicacion
+Menu principal
+Menu gerencia
+Opcion 2 no disponible
+Dal alta cliente
+volver
+Menu principal
+Menu empleado
+Agregar compra a cliente
+Agregar compra a cliente
+Menu principal
+Menu gerencia
+Dal alta cliente
+Dal alta cliente
+volver
+Menu principal
+Menu empleado
+Agregar compra a cliente
